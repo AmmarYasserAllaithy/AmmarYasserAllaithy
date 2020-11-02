@@ -13,17 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
----
-- 🔭 I’m currently working on Updating [QamarDeen](https://github.com/AmmarYasserAllaiThy/qamardeen-android) app to control missed prayers.
-- 🌱 I’m currently learning [Material Design for Android Developers](https://classroom.udacity.com/courses/ud862) 
-- 👯 I’m looking to collaborate on Any **open source** utility software 
-- 🤔 I’m looking for help with Getting a job as **Android Developer** 
-- 💬 Ask me about `Android` `Java` `OOP` `JavaFX` `SQL` `SQLite` `Firebase` `Linux` `Front-end` `JasperReports`
-- 📫 How to reach me: [Get in touch](https://ammaryasser.netlify.app/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... 
 -->
-
 
 ### I’m Ammar Yasser AllaiThy
 *A talented programmer with didcated skills and a **Computer Science** bachelor degree.*
@@ -32,12 +22,12 @@ Here are some ideas to get you started:
 | ------------ | -------- |
 | 🔭 I’m currently working on | Updating [QamarDeen](https://github.com/AmmarYasserAllaiThy/qamardeen-android) app to control missed prayers. |
 | 🌱 I’m currently learning | [Material Design for Android Developers.](https://classroom.udacity.com/courses/ud862) |
-| 👯 I’m looking to collaborate on | Any **open source** utility software. |
+| 👯 I’m looking to collaborate on | An **open source** linux distro or utility software. |
 | 🤔 I’m looking for help with | Getting a job as **Android Developer**. |
-| 💬 Ask me about | `Android` `Java` `OOP` `JavaFX` `SQL` `SQLite` `Firebase` `Linux` `Front-end` `JasperReports`  |
+| 💬 Ask me about | `Android` `Java` `OOP` `JavaFX` `SQL` `SQLite` `Firebase` `Desktop apps` `Linux` `Front-end` `JasperReports` `Word` `Excel`  |
 | 📫 How to reach me: | [Get in touch.](https://ammaryasser.netlify.app/) |
+| ⚡ Fun fact: | ***If it works, don’t touch it***. |
 
 <!--
 | 😄 Pronouns: | ... |
-| ⚡ Fun fact: | ... |
 -->
