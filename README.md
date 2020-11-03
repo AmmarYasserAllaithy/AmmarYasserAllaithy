@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I’m Ammar Yasser AllaiThy
+## I’m Ammar Yasser AllaiThy
 *A talented programmer with didcated skills and a **Computer Science** bachelor degree.*
 
 |||
