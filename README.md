@@ -3,7 +3,7 @@
 <!-- **AmmarYasserAllaiThy/AmmarYasserAllaiThy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### It’s Ammar Yasser AllaiThy
-*A talented programmer with didcated skills and a **Computer Science** bachelor degree.*
+*A talented programmer with dedicated skills and a **Computer Science** bachelor degree.*
 ___
 
 - 🔭 I’m currently working on contributing to the open source [QamarDeen](https://github.com/AmmarYasserAllaiThy/qamardeen-android) app to control missed prayers.
