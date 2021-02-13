@@ -6,7 +6,7 @@
 *A talented, motivated, and detail oriented programmer with dedicated skills and a computer science bachelor's degree.*
 ___
 
-- 🔭 I’m currently working on contributing to the open source [QamarDeen](https://github.com/AmmarYasserAllaiThy/qamardeen-android) app to control missed prayers.
+- 🔭 I’m currently working on my the open source [BST Visualizer](https://github.com/AmmarYasserAllaiThy/BST-Visualizer) desktop app.
 
 - 🌱 I’m currently learning [Developing Android Apps with Kotlin](https://classroom.udacity.com/courses/ud9012) offered by **Google** at Udacity.
   <!-- [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) offered by **UC San Diego** and **HSE** at Coursera.-->
