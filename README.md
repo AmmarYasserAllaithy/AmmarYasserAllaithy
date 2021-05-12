@@ -2,9 +2,18 @@
 
 <!-- **AmmarYasserAllaiThy/AmmarYasserAllaiThy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### I’m Ammar Yasser AllaiThy
-*A talented, motivated, and detail oriented programmer with dedicated skills and a computer science bachelor's degree.*
-___
+### It’s Ammar Yasser AllaiThy
+
+> *A talented, motivated, and detail-oriented programmer with dedicated skills and a Computer Science bachelor's degree got from the Faculty of Computers and Informatics, Zagazig University, class of 2019, with a cumulative grade of Good (74.5%).*
+
+I have a wide variety of experience in the Software Development track including without limitation...
+- **Android and Desktop** applications with their common architecture and design patterns, 3rd party libs, and APIs.
+
+- **Good Knowledge**: `SQL`, `Linux OS`, `Shell script`, `Front-end`, `Network+`
+
+- **Fields of Knowledge**: `C++`, `C#`, `Php`, `Python`, `PL/SQL`, `PhpMyAdmin`, `MySQL`, `Photoshop`, `Adobe XD`
+
+---
 
 - 🔭 I’m currently working on my the open source [BST Visualizer](https://github.com/AmmarYasserAllaiThy/BST-Visualizer) desktop app.
 
@@ -13,10 +22,14 @@ ___
 
 - 👯 I’m looking to collaborate on an **open source** linux distro or utility software.
 
-- 🤔 I’m looking for help with Getting a job as **Android Developer**.
+- 🤔 I’m looking for help with Getting a job as **Jr. Android Developer**.
 
 - 💬 Ask me about `Android` `Java` `Kotlin` `OOP` `JavaFX` `SQL` `SQLite` `Firebase` `Desktop apps` `Linux` `Front-end` `JasperReports` `Word` `Excel` `PowerPoint`
 
 - 📫 How to reach me: [My Portfolio](https://ammaryasser.netlify.app).
 
 - ⚡ Fun fact: ***If it ain't broke, don't fix it***.
+
+---
+
+> ***Instead of doing twice, Automate!***
