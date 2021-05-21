@@ -2,7 +2,7 @@
 
 <!-- **AmmarYasserAllaiThy/AmmarYasserAllaiThy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-### It’s Ammar Yasser AllaiThy
+<h2 style="background-color: #b0bac6; color: #2d333b; text-align: center"> Ammar Yasser AllaiThy </h2>
 
 > *A talented, motivated, and detail-oriented programmer with dedicated skills and a Computer Science bachelor's degree got from the Faculty of Computers and Informatics, Zagazig University, class of 2019, with a cumulative grade of Good (74.5%).*
 
