@@ -42,7 +42,7 @@ I have a wide variety of experience in the Software Development track including 
 
 ### Life quotes
 
-> Never do twice, Automate!
+> ***Never do twice, Automate.***
 
-> Don't pray for an easy life, pray for the strength to endure a difficult one.
+> ***Don't pray for an easy life, pray for the strength to endure a difficult one.***
 
