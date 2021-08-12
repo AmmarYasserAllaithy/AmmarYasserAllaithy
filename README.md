@@ -26,15 +26,13 @@ I have a wide variety of experience in the Software Development track including 
 
 ---
 
-- 🤔 I’m looking for **Jr. Android Developer**. [[CV]](https://ammaryasserallaithy.github.io/CV)
+- 🤔 I’m looking for **Jr. Android Developer**. [(CV)](https://ammaryasserallaithy.github.io/CV) / [(Portfolio)](https://ammaryasserallaithy.github.io/apps)
 
 - 🌱 I’m currently learning [Google Africa Developer Scholarship](https://app.pluralsight.com/profile/ammar-yasser-e7) offered by **Google** and **Andela** at Pluralsight.
 
 - 🔭 I’m currently working on my **open-source** [BST Visualizer](https://github.com/AmmarYasserAllaiThy/BST-Visualizer) desktop app.
 
 - 👯 I’m looking to collaborate on an **open-source** linux distro or utility software.
-
-- 📫 How to reach me: [My Portfolio](https://ammaryasser.netlify.app).
 
 - ⚡ Fun fact: ***If it ain't broke, don't fix it***.
 
