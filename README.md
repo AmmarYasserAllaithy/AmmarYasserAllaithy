@@ -4,7 +4,7 @@
 
 <!-- <h2 style="background-color: #b0bac6; color: #2d333b; text-align: center"> Ammar Yasser AllaiThy </h2> -->
 
-**A talented, motivated, and detail-oriented programmer with dedicated skills and a Computer Science bachelor's degree got from the Faculty of Computers and Informatics, Zagazig University, class of 2019, with a cumulative grade of Good (74.5%).**
+**A talented, motivated, and detail-oriented Software Engineer with dedicated skills and a Computer Science bachelor's degree got from the Faculty of Computers and Informatics, Zagazig University, class of 2019, with a cumulative grade of Good (74.5%).**
 
 I have a wide variety of experience in the Software Development track including without limitation...
 
@@ -26,11 +26,11 @@ I have a wide variety of experience in the Software Development track including 
 
 ---
 
-- 🤔 I’m looking for [**Jr. Android Developer**](https://ammaryasserallaithy.github.io/CV).
+- 🤔 I’m looking for **Jr. Android Developer**. [[CV]](https://ammaryasserallaithy.github.io/CV)
+
+- 🌱 I’m currently learning [Google Africa Developer Scholarship](https://app.pluralsight.com/profile/ammar-yasser-e7) offered by **Google** and **Andela** at Pluralsight.
 
 - 🔭 I’m currently working on my **open-source** [BST Visualizer](https://github.com/AmmarYasserAllaiThy/BST-Visualizer) desktop app.
-
-- 🌱 I’m currently learning [Developing Android Apps with Kotlin](https://classroom.udacity.com/courses/ud9012) offered by **Google** at Udacity.
 
 - 👯 I’m looking to collaborate on an **open-source** linux distro or utility software.
 
