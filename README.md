@@ -6,27 +6,13 @@ BSc in Computer Science, Zagazig University.
 
 I've variant skills in the software development field include without limitation..
 
-- **Android**
-
-  `Kotlin` (`Jetpack compose`) `Java` `OOP` `MVVM` `Coroutines` `RxJava` `Retrofit` `REST APIs` `JSON` `Room` `Firebase` `SQLite`
-
-- **Web**
-
-  `HTML` `CSS` `Sass` `Javascript` `NodeJS` `VueJS` `ExpressJS` `JQuery`
-
-- **Desktop**
-
-  `Java` `JDBC` `JavaFX` `Swing` `JasperReports` `SQL`
-
-- **Good Knowledge**
-  
-  `Linux` `Termux` `Shell script` `Network+`
-
-- **Fields of Knowledge**
- 
-  `C++` `C#` `Php` `Python` `PL/SQL` `PhpMyAdmin` `MySQL` `Photoshop` `Adobe XD` `OpenCV`
-
----
+| Field | Skills |
+|-|-|
+| Android | `Kotlin` (`Jetpack compose`) `Java` `OOP` `MVVM` `Coroutines` `RxJava` `Retrofit` `REST APIs` `JSON` `Room` `Firebase` `SQLite` |
+| Web | `HTML` `CSS` `Sass` `Javascript` `NodeJS` `VueJS` `ExpressJS` `JQuery` |
+| Desktop | `Java` `JDBC` `JavaFX` `Swing` `JasperReports` `SQL` |
+| Other | `Linux` `Termux` `Shell script` `Network+` |
+| Fields of Knowledge | `C++` `C#` `Php` `Python` `PL/SQL` `PhpMyAdmin` `MySQL` `Photoshop` `Adobe XD` `OpenCV` |
 
 🤔 I’m looking for **Android Developer** vacancy, here's my [CV](https://ammaryasserallaithy.github.io/CV) / [Portfolio](https://ammaryasserallaithy.github.io/apps)
 
@@ -39,5 +25,4 @@ I've variant skills in the software development field include without limitation
 ⚡ Fun fact: *Never repeat twice, Automate!*
 
 ---
-
 > Don't pray for an easy life, pray for the strength to endure a difficult one.
