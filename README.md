@@ -17,11 +17,12 @@ I've variant skills in the software development field include without limitation
 
 | Field | Skills |
 |-|-|
-| Android | `Kotlin` (`Jetpack compose`) `Java` `OOP` `MVVM` `Coroutines` `RxJava` `Retrofit` `REST APIs` `JSON` `Room` `Firebase` `SQLite` |
-| Web | `HTML` `CSS` `Sass` `Javascript` `NodeJS` `VueJS` `ExpressJS` `JQuery` |
-| Desktop | `Java` `JDBC` `JavaFX` `Swing` `JasperReports` `SQL` |
-| Other | `Linux` `Termux` `Shell script` `Network+` |
-| Fields of Knowledge | `C++` `C#` `Php` `Python` `PL/SQL` `PhpMyAdmin` `MySQL` `Photoshop` `Adobe XD` `OpenCV` |
+| Android | `Kotlin` (`Jetpack compose`) `Java` `OOP` `MVVM` `Coroutines` `RxJava` `Retrofit` `REST APIs` |
+| Web | `HTML` `CSS` `Sass` `Javascript` `Node.JS` `Vue.JS` `Express.JS` `JQuery` |
+| Desktop | `Java` `JDBC` `JavaFX` `Swing` `JasperReports` |
+| Database | `SQL` `SQLite` `Room` `Firebase` `Exposed` `PostgreSQL` |
+| Other | `Linux` `Git` `Termux` `Shell script` `Network+` `JSON` |
+| Fields of Knowledge | `Python` `C++` `C#` `Php` `PL/SQL` `PhpMyAdmin` `MySQL` `Photoshop` `Adobe XD` `OpenCV` |
 
 👯 I’m looking to collaborate on an open-source linux distro or utility software.
 
