@@ -1,4 +1,4 @@
-A talented, motivated, and experienced Software Engineer adept in all phases of advanced software development. My potentials extends beyond development into security and AI. I've 2+ years of freelancing and seek a challenging opportunity in a reputable company wherein I can enrich my skills and add valuable addition to its team.
+A talented, innovative, and experienced Software Engineer with a proven track record of designing and implementing scalable and robust applications and 3+ years of freelancing. Adept at coding, troubleshooting, and collaborating with cross-functional teams to deliver user-centric solutions. Committed to sustainable learning and staying ahead of industry trends to drive technological advancements and efficiency in software development. My potentials extends beyond development into AI and Security. Seeking a challenging opportunity in a reputable company wherein I can enrich my skills and add valuable addition to its team.
 
 [![Static Badge](https://img.shields.io/badge/Resume-Android-25C2A0)](https://ammaryasserallaithy.github.io/CV)
 [![Static Badge](https://img.shields.io/badge/Personal_website-fe7)](https://ammaryasserallaithy.github.io)
@@ -28,5 +28,4 @@ I've variant skills in the software development field include without limitation
 
 ⚡ Fun fact: *Never repeat twice, Automate!*
 
----
 > _Don't pray for an easy life, pray for the strength to endure a difficult one._
