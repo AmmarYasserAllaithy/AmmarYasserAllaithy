@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmmarYasserAllaithy&margin-w=7&no-frame=true&title=-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 Talented, innovative and experienced Android developer with a proven track record of designing and implementing scalable and robust mobile applications that prioritize privacy, save time and eliminate repetitive tasks to focus on more creative and strategic activities. Skilled at coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions. Committed to continuous learning and staying ahead of industry trends to drive technological advancements and efficiencies in mobile development. Developed during 3+ years of freelance, 10+ Android, 8+ web, and 7+ desktop apps and tools. My potential extends beyond development into AI and security. I am looking for a challenging opportunity in your reputed company where I can enrich my skills and be a valuable addition to the mobile team.
 
 [![Static Badge](https://img.shields.io/badge/Resume-Android-25C2A0)](https://flowcv.com/resume/2qmeanrs3w)
