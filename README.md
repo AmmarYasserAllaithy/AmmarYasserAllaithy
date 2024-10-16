@@ -1,19 +1,30 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmmarYasserAllaithy&margin-w=7&no-frame=true&title=-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmmarYasserAllaithy&title=-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-Talented, innovative and experienced Android developer with a proven track record of designing and implementing scalable and robust mobile applications that prioritize privacy, save time and eliminate repetitive tasks to focus on more creative and strategic activities. Skilled at coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions. Committed to continuous learning and staying ahead of industry trends to drive technological advancements and efficiencies in mobile development. Developed during 3+ years of freelance, 10+ Android, 8+ web, and 7+ desktop apps and tools. My potential extends beyond development into AI and security. I am looking for a challenging opportunity in your reputed company where I can enrich my skills and be a valuable addition to the mobile team.
+Talented, innovative and experienced Android developer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
+
+Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
+
+Committed to continuous learning and staying ahead of industry trends.
+
+Developed in 3+ years of freelance, 7+ Android, 4+ Desktop, 3+ Web apps & tools. Plus 1 Compose Multiplatform app for Android & iOS and 1 Telegram bot.
+
+My potential extends beyond development into AI and Security.
 
 [![Static Badge](https://img.shields.io/badge/Resume-Android-25C2A0)](https://flowcv.com/resume/2qmeanrs3w)
 [![Static Badge](https://img.shields.io/badge/Personal-website-fe7)](https://ammaryasserallaithy.github.io)
 
-BSc in Computer Science, Zagazig University.
+**Computer Science Bachelor**, Zagazig University.
 
-> CLI enthusiast
+Looking to collaborate on an open-source linux distro or utility software.
 
-<!-- 🤔 I’m looking for **Android Developer** vacancy, here's my -->
+CLI enthusiast.
 
-<!-- 🌱 I’m currently studying [Google Africa Developer Scholarship (GADS)](https://app.pluralsight.com/profile/ammar-yasser-e7) offered by **Google** and **Andela** at Pluralsight. -->
+> Fact: *Never repeat twice, Automate!*
 
-<!-- 🔭 I’m currently working on my FOSS desktop app [BST Visualizer](https://github.com/AmmarYasserAllaiThy/BST-Visualizer) -->
+> Quote: *Don't pray for an easy life, pray for the strength to endure a difficult one.*
+
+
+## Technologies & Tools
 
 I've variant skills in the software development field include without limitation..
 
@@ -25,9 +36,3 @@ I've variant skills in the software development field include without limitation
 | Database | `SQL` `SQLite` `Room` `Firebase` `Exposed` `PostgreSQL` |
 | Other | `Linux` `Git` `Termux` `Shell script` `Network+` `JSON` |
 | Fields of Knowledge | `Python` `C++` `C#` `Php` `PL/SQL` `PhpMyAdmin` `MySQL` `Photoshop` `Adobe XD` `OpenCV` |
-
-👯 I’m looking to collaborate on an open-source linux distro or utility software.
-
-⚡ Fun fact: *Never repeat twice, Automate!*
-
-> _Don't pray for an easy life, pray for the strength to endure a difficult one._
