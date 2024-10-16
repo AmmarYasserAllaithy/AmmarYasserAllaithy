@@ -19,9 +19,11 @@ Looking to collaborate on an open-source linux distro or utility software.
 
 CLI enthusiast.
 
-> Fact: *Never repeat twice, Automate!*
+Fact:
+> *Never repeat twice, Automate!*
 
-> Quote: *Don't pray for an easy life, pray for the strength to endure a difficult one.*
+Quote:
+> *Don't pray for an easy life, pray for the strength to endure a difficult one.*
 
 
 ## Technologies & Tools
