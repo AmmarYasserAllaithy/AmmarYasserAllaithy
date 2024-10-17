@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmmarYasserAllaithy&title=-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmmarYasserAllaithy&title=-Reviews&no-frame=true&margin-w=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 Talented, innovative and experienced Android developer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
 
@@ -27,8 +27,6 @@ Quote:
 
 
 ## Technologies & Tools
-
-I've variant skills in the software development field include without limitation..
 
 | Field | Skills |
 |-|-|
