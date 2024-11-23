@@ -24,6 +24,7 @@ Looking to collaborate on an open-source linux distro or utility software.
 
 ## Gists
 
+[![Keyboard Shortcuts](https://github-readme-stats.vercel.app/api/gist?id=50b7ff0d879e88c57fed5c83174888aa&theme=github_dark_dimmed)](https://gist.github.com/AmmarYasserAllaithy/50b7ff0d879e88c57fed5c83174888aa)
 
 
 <!--
