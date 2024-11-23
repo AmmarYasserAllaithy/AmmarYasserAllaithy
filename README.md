@@ -17,12 +17,9 @@ Looking to collaborate on an open-source linux distro or utility software.
 [![Static Badge](https://img.shields.io/badge/Resume-Android-25C2A0)](https://flowcv.com/resume/2qmeanrs3w)
 [![Static Badge](https://img.shields.io/badge/Personal-website-fe7)](https://ammaryasserallaithy.github.io)
 
-Fact:
-> *Never repeat twice, Automate!*
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Never%20repeat%2C%20just%20automate)](https://github.com/piyushsuthar/github-readme-quotes)
 
-Quote:
-> *Don't pray for an easy life, pray for the strength to endure a difficult one.*
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&author=Bruce%20Lee&quote=Don%27t%20pray%20for%20an%20easy%20life%2C%20pray%20for%20the%20strength%20to%20endure%20a%20difficult%20one)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Languages and Tools:
 
