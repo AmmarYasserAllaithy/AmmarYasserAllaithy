@@ -1,17 +1,11 @@
-# Hi 👋, I'm Ammar Yasser
+# Hi 👋, I'm Ammar
 
 A talented, innovative and experienced Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
-
 Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
-
 Committed to continuous learning and staying ahead of industry trends.
-
 Developed in 2+ years of freelance, 6+ Android, 4+ Desktop, 3+ Web apps & tools. Plus 1 Compose Multiplatform app for Android & iOS and 1 Telegram bot.
-
 My potential extends beyond development into AI and Security.
-
 CLI and automation enthusiast.
-
 Looking to collaborate on an open-source linux distro or utility software.
 
 [![Static Badge](https://img.shields.io/badge/Resume-Android-25C2A0)](https://flowcv.com/resume/2qmeanrs3w)
@@ -28,9 +22,10 @@ Looking to collaborate on an open-source linux distro or utility software.
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammaryasserallaithy&show_icons=true&locale=en&theme=github_dark_dimmed&layout=donut&hide_title=true" alt="ammaryasserallaithy" /></p>
 
-## GitHub Profile Trophy
+## Gists
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmmarYasserAllaithy&title=-Reviews&no-frame=true&margin-w=5&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=50b7ff0d879e88c57fed5c83174888aa&theme=github_dark_dimmed)](https://gist.github.com/AmmarYasserAllaithy/50b7ff0d879e88c57fed5c83174888aa)
+
 
 <!--
 ## Technologies & Tools
