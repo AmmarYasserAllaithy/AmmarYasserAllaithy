@@ -4,8 +4,8 @@
 
 <!--
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&center=true&vCenter=true&repeat=false&width=400&height=70&color=00CE7B&lines=Android+Developer,+Chefaa" alt="Typing SVG">
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1000&center=false&vCenter=true&repeat=false&width=400&height=70&color=00CE7B&lines=Software+Engineer" alt="Typing SVG">
 </div>
 
 <h1>Hi there 👋, I'm Ammar Yasser</h1>
@@ -102,7 +102,11 @@ Looking to collaborate on an open-source linux distro or utility software.
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarYasserAllaithy&show_icons=true&locale=en&theme=github_dark_dimmed&layout=donut&hide_title=true" alt="ammaryasserallaithy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarYasserAllaithy&show_icons=true&layout=donut&locale=en&theme=github_dark_dimmed&hide_title=false" alt="ammaryasserallaithy">
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmmarYasserAllaithy&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="Stats">
 </p>
 
 
