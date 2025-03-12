@@ -36,7 +36,7 @@
 
 -->
 
-A talented, innovative and experienced <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1000&center=true&vCenter=true&repeat=false&width=170&height=18&lines=Software+Engineer" alt="Typing SVG"> with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
+A talented, innovative and experienced Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
 Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
 Committed to continuous learning and staying ahead of industry trends.
 Developed in 2+ years of freelance, 6+ Android, 4+ Desktop, 3+ Web apps & tools. Plus 1 Compose Multiplatform app for Android & iOS and 1 Telegram bot.
@@ -102,9 +102,9 @@ Looking to collaborate on an open-source linux distro or utility software.
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarYasserAllaithy&show_icons=true&layout=donut&locale=en&theme=github_dark_dimmed&hide_title=false" alt="ammaryasserallaithy">
-
   <img src="https://github-readme-stats.vercel.app/api?username=AmmarYasserAllaithy&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="Stats">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarYasserAllaithy&show_icons=true&layout=donut&locale=en&theme=github_dark_dimmed&hide_title=false" alt="ammaryasserallaithy">
 </p>
 
 
