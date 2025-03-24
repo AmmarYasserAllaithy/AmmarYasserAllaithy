@@ -44,15 +44,15 @@ My potential extends beyond development into AI and Security.
 CLI and automation enthusiast.
 Looking to collaborate on an open-source linux distro or utility software.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&quote=Never%20repeat%2C%20just%20automate)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord&author=Bruce%20Lee&quote=Don%27t%20pray%20for%20an%20easy%20life%2C%20pray%20for%20the%20strength%20to%20endure%20a%20difficult%20one)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Never%20repeat%2C%20just%20automate)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&author=Bruce%20Lee&quote=Don%27t%20pray%20for%20an%20easy%20life%2C%20pray%20for%20the%20strength%20to%20endure%20a%20difficult%20one)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
 ## Contact
 
 [![Static Badge](https://img.shields.io/badge/Contact_via-Email-EA4335?style=for-the-badge)](mailto:ammaryasserallaithy@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/AmmarYasserAllaithy)
-[![Static Badge](https://img.shields.io/badge/Go_to-Personal_website-fe7?style=for-the-badge)](https://ammaryasserallaithy.github.io)
+[![Static Badge](https://img.shields.io/badge/Browse-Personal_website-fe7?style=for-the-badge)](https://ammaryasserallaithy.github.io)
 [![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0?style=for-the-badge)](https://flowcv.com/resume/2qmeanrs3w)
 
 
