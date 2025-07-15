@@ -36,7 +36,7 @@
 
 -->
 
-A talented, innovative and experienced Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
+A talented, experienced and business-focused Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
 Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
 Committed to continuous learning and staying ahead of industry trends.
 Developed in 2+ years of freelance, 6+ **Android**, 4+ **Desktop**, 3+ **Web** apps & tools. in addition to 2 **Compose Multiplatform** apps for Android & iOS, 1 **Telegram bot** and 2 **Chrome extensions**.
