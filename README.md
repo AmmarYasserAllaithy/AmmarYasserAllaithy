@@ -129,7 +129,7 @@ Looking to collaborate on an open-source linux distro or utility software.
 ### Web
 
 [![YTPyzer](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=YTPyzer)](https://github.com/AmmarYasserAllaithy/YTPyzer)
-[![telltale-client-es](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=telltale-client-es)](https://github.com/AmmarYasserAllaithy/telltale-client-es)
+[![telltale](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=telltale)](https://github.com/AmmarYasserAllaithy/telltale)
 [![just-paint](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=just-paint)](https://github.com/AmmarYasserAllaithy/just-paint)
 
 
