@@ -36,7 +36,7 @@
 
 -->
 
-A talented, experienced and business-focused Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
+A talented, innovative and business-focused Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
 Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
 Committed to continuous learning and staying ahead of industry trends.
 Developed in 2+ years of freelance, 6+ **Android**, 4+ **Desktop**, 3+ **Web** apps & tools. in addition to 2 **Compose Multiplatform** apps for Android & iOS, 1 **Telegram bot** and 2 **Chrome extensions**.
@@ -49,8 +49,8 @@ Looking to collaborate on an open-source linux distro or utility software.
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&author=Bruce%20Lee&quote=Don%27t%20pray%20for%20an%20easy%20life%2C%20pray%20for%20the%20strength%20to%20endure%20a%20difficult%20one)](https://github.com/piyushsuthar/github-readme-quotes)
 -->
 
-
-<table align="center">
+<br/>
+<table>
   <tr>
     <td>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -136,8 +136,9 @@ Looking to collaborate on an open-source linux distro or utility software.
     </td>
   </tr>
 </table>
+<br/>
 
-
+<!--
 <div align="center">
   
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmmarYasserAllaithy&theme=github-dark-dimmed&hide_border=false&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
@@ -147,7 +148,7 @@ Looking to collaborate on an open-source linux distro or utility software.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmmarYasserAllaithy&show_icons=true&layout=compact&height=195&locale=en&theme=github_dark_dimmed&hide_title=true" alt="ammaryasserallaithy">
 
 </div>
-
+-->
 
 ## Contact
 
