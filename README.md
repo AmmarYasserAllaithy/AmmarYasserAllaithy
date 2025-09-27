@@ -163,9 +163,10 @@ Looking to collaborate on an open-source linux distro or utility software.
 
 ## Featured repos
 
-### Android
+### Mobile
 
 [![Tourating](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=Tourating)](https://github.com/AmmarYasserAllaithy/Tourating)
+[![Foundit](https://github-readme-stats.vercel.app/api/pin/?username=3mmarYaser&theme=github_dark_dimmed&repo=Foundit)](https://github.com/3mmarYaser/Foundit)
 [![MyDocsBox](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=MyDocsBox)](https://github.com/AmmarYasserAllaithy/MyDocsBox)
 [![Totpator](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=Totpator)](https://github.com/AmmarYasserAllaithy/Totpator)
 [![WaTeFinder](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=WaTeFinder)](https://github.com/AmmarYasserAllaithy/WaTeFinder)
