@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1000&center=false&vCenter=true&repeat=false&width=444&height=77&lines=Hi+%F0%9F%91%8B%2C+I'm+Ammar+Yasser" alt="Typing SVG">  
 </div>
 
+
 <!--
 
 <div>
@@ -42,10 +43,43 @@
 - Experienced in developing 6+ Android, 4+ Desktop, 3+ Web apps, plus 1 Compose Multiplatform (Android & iOS) and 1 Telegram bot.
 - My potential extends beyond development into AI and Security.
 
+[![Static Badge](https://img.shields.io/badge/Contact_via-Email-EA4335)](mailto:ammaryasserallaithy@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2)](https://linkedin.com/in/AmmarYasserAllaithy)
+[![Static Badge](https://img.shields.io/badge/Browse-Personal_website-fe7)](https://ammaryasserallaithy.github.io)
+[![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0)](https://flowcv.com/resume/2qmeanrs3w)
+
+
 <!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Never%20repeat%2C%20just%20automate)](https://github.com/piyushsuthar/github-readme-quotes)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&author=Bruce%20Lee&quote=Don%27t%20pray%20for%20an%20easy%20life%2C%20pray%20for%20the%20strength%20to%20endure%20a%20difficult%20one)](https://github.com/piyushsuthar/github-readme-quotes)
 -->
+
+### Tech stack
+
+- **Compose Multiplatform**
+
+  Android — iOS — Desktop
+
+- **Android**
+
+  Kotlin — Java — Coroutines — MVVM — Ktor — Koin — RESTful APIs — JUnit
+
+- **Web**
+
+  HTML — CSS — Sass — JavaScript — Vue.js — Express.js — Telegram bot
+
+- **Desktop**
+
+  Java — JavaFX — Compose — Swing — Jasper Reports — POI
+
+- **Database**
+
+  SQL — Room — Supabase — Firebase — SQLDelight — SQLite
+
+- **Knowledge Fields**
+
+  React native — CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV
+
 
 <br/>
 <table>
@@ -134,6 +168,7 @@
     </td>
   </tr>
 </table>
+
 <br/>
 
 <!--
@@ -148,18 +183,19 @@
 </div>
 -->
 
-## Contact
+<!--
+### Contact
 
 [![Static Badge](https://img.shields.io/badge/Contact_via-Email-EA4335?style=for-the-badge)](mailto:ammaryasserallaithy@gmail.com)
-
 [![Static Badge](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/AmmarYasserAllaithy)
-
 [![Static Badge](https://img.shields.io/badge/Browse-Personal_website-fe7?style=for-the-badge)](https://ammaryasserallaithy.github.io)
-
 [![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0?style=for-the-badge)](https://flowcv.com/resume/2qmeanrs3w)
+-->
 
 
-## Featured repos
+
+
+### Featured repos
 
 ### Mobile
 
@@ -167,23 +203,29 @@
 [![Foundit](https://github-readme-stats.vercel.app/api/pin/?username=3mmarYaser&theme=github_dark_dimmed&repo=Foundit)](https://github.com/3mmarYaser/Foundit)
 [![MyDocsBox](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=MyDocsBox)](https://github.com/AmmarYasserAllaithy/MyDocsBox)
 [![Totpator](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=Totpator)](https://github.com/AmmarYasserAllaithy/Totpator)
+<!--
 [![WaTeFinder](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=WaTeFinder)](https://github.com/AmmarYasserAllaithy/WaTeFinder)
 [![ToDo](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=ToDo)](https://github.com/AmmarYasserAllaithy/ToDo)
+-->
 
 ### Desktop
 
 [![SquareIt-GUI](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=SquareIt-GUI)](https://github.com/AmmarYasserAllaithy/SquareIt-GUI)
 [![Mark-as-Completed](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=Mark-as-Completed)](https://github.com/AmmarYasserAllaithy/Mark-as-Completed)
+<!--
 [![BST-Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=BST-Visualizer)](https://github.com/AmmarYasserAllaithy/BST-Visualizer)
+-->
 
 ### Web
 
 [![YTPyzer](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=YTPyzer)](https://github.com/AmmarYasserAllaithy/YTPyzer)
 [![telltale](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=telltale)](https://github.com/AmmarYasserAllaithy/telltale)
+<!--
 [![just-paint](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=just-paint)](https://github.com/AmmarYasserAllaithy/just-paint)
+-->
 
 
-## Gists
+### Gists
 
 [![Keyboard Shortcuts](https://github-readme-stats.vercel.app/api/gist?id=50b7ff0d879e88c57fed5c83174888aa&theme=github_dark_dimmed)](https://gist.github.com/AmmarYasserAllaithy/50b7ff0d879e88c57fed5c83174888aa)
 
