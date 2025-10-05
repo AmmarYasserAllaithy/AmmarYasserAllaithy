@@ -36,13 +36,11 @@
 
 -->
 
-A talented, innovative and business-focused Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
-Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
-Committed to continuous learning and staying ahead of industry trends.
-Developed in 2+ years of freelance, 6+ **Android**, 4+ **Desktop**, 3+ **Web** apps & tools. in addition to 2 **Compose Multiplatform** apps for Android & iOS, 1 **Telegram bot** and 2 **Chrome extensions**.
-My potential extends beyond development into AI and Security.
-CLI and automation enthusiast.
-Looking to collaborate on an open-source linux distro or utility software.
+- Talented, innovative and business-focused Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
+- Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
+- Committed to continuous learning and staying ahead of industry trends.
+- Experienced in developing 6+ Android, 4+ Desktop, 3+ Web apps, plus 1 Compose Multiplatform (Android & iOS) and 1 Telegram bot.
+- My potential extends beyond development into AI and Security.
 
 <!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Never%20repeat%2C%20just%20automate)](https://github.com/piyushsuthar/github-readme-quotes)
