@@ -49,11 +49,6 @@
 [![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0)](https://flowcv.com/resume/2qmeanrs3w)
 
 
-<!--
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=Never%20repeat%2C%20just%20automate)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&author=Bruce%20Lee&quote=Don%27t%20pray%20for%20an%20easy%20life%2C%20pray%20for%20the%20strength%20to%20endure%20a%20difficult%20one)](https://github.com/piyushsuthar/github-readme-quotes)
--->
-
 ### Tech stack
 
 - **Compose Multiplatform**
@@ -82,6 +77,7 @@
 
 
 <br/>
+
 <table>
   <tr>
     <td>
@@ -174,7 +170,9 @@
 <!--
 <div align="center">
   
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AmmarYasserAllaithy&theme=github-dark-dimmed&hide_border=false&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=AmmarYasserAllaithy&theme=github-dark-dimmed&hide_border=false&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AmmarYasserAllaithy&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&hide_title=true" alt="Stats">
   <br>
@@ -199,46 +197,24 @@
 
 ### Mobile
 
-[![Tourating](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=Tourating)](https://github.com/AmmarYasserAllaithy/Tourating)
-[![Foundit](https://github-readme-stats.vercel.app/api/pin/?username=3mmarYaser&theme=github_dark_dimmed&repo=Foundit)](https://github.com/3mmarYaser/Foundit)
-[![MyDocsBox](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=MyDocsBox)](https://github.com/AmmarYasserAllaithy/MyDocsBox)
-[![Totpator](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=Totpator)](https://github.com/AmmarYasserAllaithy/Totpator)
-<!--
-[![WaTeFinder](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=WaTeFinder)](https://github.com/AmmarYasserAllaithy/WaTeFinder)
-[![ToDo](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=ToDo)](https://github.com/AmmarYasserAllaithy/ToDo)
--->
+[![Tourating](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=Tourating)](https://github.com/AmmarYasserAllaithy/Tourating)
+[![Foundit](https://github-readme-stats.vercel.app/api/pin/?username=3mmarYaser&theme=github_dark_dimmed&description_lines_count=2&repo=Foundit)](https://github.com/3mmarYaser/Foundit)
+[![Totpator](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=Totpator)](https://github.com/AmmarYasserAllaithy/Totpator)
+[![MyDocsBox](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=MyDocsBox)](https://github.com/AmmarYasserAllaithy/MyDocsBox)
+
 
 ### Desktop
 
 [![SquareIt-GUI](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=SquareIt-GUI)](https://github.com/AmmarYasserAllaithy/SquareIt-GUI)
 [![Mark-as-Completed](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=Mark-as-Completed)](https://github.com/AmmarYasserAllaithy/Mark-as-Completed)
-<!--
-[![BST-Visualizer](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=BST-Visualizer)](https://github.com/AmmarYasserAllaithy/BST-Visualizer)
--->
+
 
 ### Web
 
 [![YTPyzer](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=YTPyzer)](https://github.com/AmmarYasserAllaithy/YTPyzer)
 [![telltale](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=telltale)](https://github.com/AmmarYasserAllaithy/telltale)
-<!--
-[![just-paint](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&repo=just-paint)](https://github.com/AmmarYasserAllaithy/just-paint)
--->
 
 
 ### Gists
 
-[![Keyboard Shortcuts](https://github-readme-stats.vercel.app/api/gist?id=50b7ff0d879e88c57fed5c83174888aa&theme=github_dark_dimmed)](https://gist.github.com/AmmarYasserAllaithy/50b7ff0d879e88c57fed5c83174888aa)
-
-
-<!--
-## Technologies & Tools
-
-| Field | Skills |
-|-|-|
-| Android | `Kotlin` (`Jetpack compose`) `Java` `OOP` `MVVM` `Coroutines` `RxJava` `Retrofit` `REST APIs` |
-| Web | `HTML` `CSS` `Sass` `Javascript` `Node.JS` `Vue.JS` `Express.JS` `JQuery` |
-| Desktop | `Java` `JDBC` `JavaFX` `Swing` `JasperReports` |
-| Database | `SQL` `SQLite` `Room` `Firebase` `Exposed` `PostgreSQL` |
-| Other | `Linux` `Git` `Termux` `Shell script` `Network+` `JSON` |
-| Fields of Knowledge | `Python` `C++` `C#` `Php` `PL/SQL` `PhpMyAdmin` `MySQL` `Photoshop` `Adobe XD` `OpenCV` |
--->
+[![Keyboard Shortcuts](https://github-readme-stats.vercel.app/api/gist?id=50b7ff0d879e88c57fed5c83174888aa&theme=github_dark_dimmed&description_lines_count=2)](https://gist.github.com/AmmarYasserAllaithy/50b7ff0d879e88c57fed5c83174888aa)
