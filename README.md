@@ -46,7 +46,7 @@
 [![Static Badge](https://img.shields.io/badge/Contact_via-Email-EA4335)](mailto:ammaryasserallaithy@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2)](https://linkedin.com/in/AmmarYasserAllaithy)
 [![Static Badge](https://img.shields.io/badge/Browse-Personal_website-fe7)](https://ammaryasserallaithy.github.io)
-[![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0)](https://flowcv.com/resume/2qmeanrs3w)
+[![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0)](https://overleaf.com/read/dnfgkrcngcqy)
 
 
 ### Tech stack
