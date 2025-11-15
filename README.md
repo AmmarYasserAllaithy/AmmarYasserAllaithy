@@ -203,17 +203,19 @@
 [![MyDocsBox](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=MyDocsBox)](https://github.com/AmmarYasserAllaithy/MyDocsBox)
 
 
+<!--
 ### Desktop
 
 [![SquareIt-GUI](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=SquareIt-GUI)](https://github.com/AmmarYasserAllaithy/SquareIt-GUI)
 [![Mark-as-Completed](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=Mark-as-Completed)](https://github.com/AmmarYasserAllaithy/Mark-as-Completed)
+-->
 
-
+<!--
 ### Web
 
 [![YTPyzer](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=YTPyzer)](https://github.com/AmmarYasserAllaithy/YTPyzer)
 [![telltale](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=telltale)](https://github.com/AmmarYasserAllaithy/telltale)
-
+-->
 
 ### Gists
 
