@@ -192,7 +192,7 @@
 
 
 
-
+<!--
 ### Featured repos
 
 ### Mobile
@@ -201,7 +201,7 @@
 [![Foundit](https://github-readme-stats.vercel.app/api/pin/?username=3mmarYaser&theme=github_dark_dimmed&description_lines_count=2&repo=Foundit)](https://github.com/3mmarYaser/Foundit)
 [![Totpator](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=Totpator)](https://github.com/AmmarYasserAllaithy/Totpator)
 [![MyDocsBox](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=MyDocsBox)](https://github.com/AmmarYasserAllaithy/MyDocsBox)
-
+-->
 
 <!--
 ### Desktop
@@ -217,6 +217,8 @@
 [![telltale](https://github-readme-stats.vercel.app/api/pin/?username=AmmarYasserAllaithy&theme=github_dark_dimmed&description_lines_count=2&repo=telltale)](https://github.com/AmmarYasserAllaithy/telltale)
 -->
 
+<!--
 ### Gists
 
 [![Keyboard Shortcuts](https://github-readme-stats.vercel.app/api/gist?id=50b7ff0d879e88c57fed5c83174888aa&theme=github_dark_dimmed&description_lines_count=2)](https://gist.github.com/AmmarYasserAllaithy/50b7ff0d879e88c57fed5c83174888aa)
+-->
