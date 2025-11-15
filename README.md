@@ -37,21 +37,21 @@
 
 -->
 
-- Talented, innovative and business-focused Software Engineer with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
-- Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
-- Committed to continuous learning and staying ahead of industry trends.
-- Experienced in developing 6+ Android, 4+ Desktop, 3+ Web apps, plus 1 Compose Multiplatform (Android & iOS) and 1 Telegram bot.
-- My potential extends beyond development into AI and Security.
-
-[![Static Badge](https://img.shields.io/badge/Contact_via-Email-EA4335)](mailto:ammaryasserallaithy@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2)](https://linkedin.com/in/AmmarYasserAllaithy)
-[![Static Badge](https://img.shields.io/badge/Browse-Personal_website-fe7)](https://ammaryasserallaithy.github.io)
-[![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0)](https://overleaf.com/read/dnfgkrcngcqy)
+Talented, innovative and business-focused Software Engineer specialized in Android | Kotlin Multiplatform (KMP) | React Native
+<br>with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
+<br>
+Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
+<br>
+Committed to continuous learning and staying ahead of industry trends.
+<br>
+Experienced in developing 6+ Android, 2+ KMP (Android \& iOS) plus 4+ Desktop, 3+ Web apps, and 1 Telegram bot.
+<br>
+My potential extends beyond development into AI and Security.
 
 
 ### Tech stack
 
-- **Compose Multiplatform**
+- **Kotlin Multiplatform**
 
   Android — iOS — Desktop
 
@@ -73,9 +73,18 @@
 
 - **Knowledge Fields**
 
-  React native — CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV
+  React Native — CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV
 
 
+### Contact
+
+[![Static Badge](https://img.shields.io/badge/Contact_via-Email-EA4335?style=for-the-badge)](mailto:ammaryasserallaithy@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/AmmarYasserAllaithy)
+[![Static Badge](https://img.shields.io/badge/Browse-Personal_website-fe7?style=for-the-badge)](https://ammaryasserallaithy.github.io)
+[![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0?style=for-the-badge)](https://overleaf.com/read/dnfgkrcngcqy)
+
+
+<!--
 <br/>
 
 <table>
@@ -166,6 +175,7 @@
 </table>
 
 <br/>
+-->
 
 <!--
 <div align="center">
