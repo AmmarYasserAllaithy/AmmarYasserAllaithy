@@ -37,21 +37,27 @@
 
 -->
 
-Talented, innovative and business-focused Software Engineer specialized in Android | Kotlin Multiplatform (KMP) | React Native
+Talented, innovative and business-focused Software Engineer specialized in **Android | Kotlin Multiplatform (KMP) | React Native**
 <br>with a proven track record of designing and implementing scalable and robust mobile apps prioritizing privacy, saving time and eliminating repetitive tasks to focus on more creative and strategic activities.
-<br>
+
 Skilled at problem-solving, coding, troubleshooting and collaborating with cross-functional teams to deliver user-centric solutions, with a keen eye for details.
-<br>
+
 Committed to continuous learning and staying ahead of industry trends.
-<br>
+
 Experienced in developing 6+ Android, 2+ KMP (Android \& iOS) plus 4+ Desktop, 3+ Web apps, and 1 Telegram bot.
-<br>
+
 My potential extends beyond development into AI and Security.
 
 
 ### Tech stack
 
 - **Kotlin Multiplatform**
+
+  <!--
+  ![Static Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&labelColor=white&style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/iOS-black?logo=apple&style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/Desktop-black?style=for-the-badge)
+  -->
 
   Android — iOS — Desktop
 
