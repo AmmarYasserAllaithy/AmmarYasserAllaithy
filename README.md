@@ -63,7 +63,7 @@ My potential extends beyond development into AI and Security.
 
 - **Android**
 
-  Kotlin — Java — Jetpack Compose — Coroutines — Clean Architecture — MVVM — Ktor — Koin — RESTful APIs — JUnit
+  Kotlin — Java — Jetpack Compose — Coroutines — Clean Architecture — MVVM — Koin — RESTful APIs — JUnit
 
 - **React Native**  <!-- ![React Native](https://img.shields.io/badge/React_Native-22252C?logo=react&logoColor=74DBFB&style=for-the-badge) -->
 
