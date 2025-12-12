@@ -65,13 +65,13 @@ My potential extends beyond development into AI and Security.
 
   Kotlin — Java — Coroutines — MVVM — Clean Architecture — Ktor — Koin — RESTful APIs — JUnit
 
-- **React Native**
+- **React Native**  <!-- ![React Native](https://img.shields.io/badge/React_Native-22252C?logo=react&logoColor=74DBFB&style=for-the-badge) -->
 
-  CLI — Expo — Zustand — Navigation — TanStack Query — Formik — Yup — i18n
+  Expo — CLI — Zustand — TanStack Query — Navigation — Formik — Yup — i18n  — Async Storage
 
 - **Web**
 
-  HTML — CSS — Sass — JavaScript — Vue.js — Express.js — Axios — Telegram bot SDK
+  HTML — CSS — Sass — JavaScript — Vue.js — Express.js — Axios
 
 - **Desktop**
 
@@ -83,7 +83,7 @@ My potential extends beyond development into AI and Security.
 
 - **Knowledge Fields**
 
-  CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV
+  Swift UI — CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV — Telegram bot SDK
 
 
 ### Contact
