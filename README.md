@@ -83,7 +83,7 @@ My potential extends beyond development into AI and Security.
 
 - **Knowledge Fields**
 
-  Swift UI — LaTeX — CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV — Telegram bot SDK
+  Swift UI — CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV — LaTeX — Telegram SDK
 
 
 ### Contact
