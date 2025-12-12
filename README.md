@@ -63,15 +63,19 @@ My potential extends beyond development into AI and Security.
 
 - **Android**
 
-  Kotlin — Java — Coroutines — MVVM — Ktor — Koin — RESTful APIs — JUnit
+  Kotlin — Java — Coroutines — MVVM — Clean Architecture — Ktor — Koin — RESTful APIs — JUnit
+
+- **React Native**
+
+  CLI — Expo — Zustand — Navigation — TanStack Query — Formik — Yup — i18n
 
 - **Web**
 
-  HTML — CSS — Sass — JavaScript — Vue.js — Express.js — Telegram bot
+  HTML — CSS — Sass — JavaScript — Vue.js — Express.js — Axios — Telegram bot SDK
 
 - **Desktop**
 
-  Java — JavaFX — Compose — Swing — Jasper Reports — POI
+  JavaFX — Compose — Swing — Jasper Reports — POI
 
 - **Database**
 
@@ -79,7 +83,7 @@ My potential extends beyond development into AI and Security.
 
 - **Knowledge Fields**
 
-  React Native — CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV
+  CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV
 
 
 ### Contact
