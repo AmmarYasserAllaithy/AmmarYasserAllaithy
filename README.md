@@ -44,7 +44,7 @@ Skilled at problem-solving, coding, troubleshooting and collaborating with cross
 
 Committed to continuous learning and staying ahead of industry trends.
 
-Experienced in developing 6+ Android, 2+ KMP (Android \& iOS) plus 4+ Desktop, 3+ Web apps, and 1 Telegram bot.
+Experienced in developing 6+ Android, 2+ KMP (Android \& iOS), 2+ React Native. Plus 4+ Desktop, 3+ Web apps, and 1 Telegram bot.
 
 My potential extends beyond development into AI and Security.
 
@@ -84,8 +84,8 @@ My potential extends beyond development into AI and Security.
 
 ### Contact
 
-[![Static Badge](https://img.shields.io/badge/Contact_via-Email-EA4335?style=for-the-badge)](mailto:ammaryasserallaithy@gmail.com)
-[![Static Badge](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/AmmarYasserAllaithy)
+[![Static Badge](https://img.shields.io/badge/Via-Email-EA4335?style=for-the-badge)](mailto:ammaryasserallaithy@gmail.com)
+[![Static Badge](https://img.shields.io/badge/On-LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/AmmarYasserAllaithy)
 [![Static Badge](https://img.shields.io/badge/Browse-Personal_website-fe7?style=for-the-badge)](https://ammaryasserallaithy.github.io)
 [![Static Badge](https://img.shields.io/badge/Download-Resume-25C2A0?style=for-the-badge)](https://overleaf.com/read/dnfgkrcngcqy)
 
