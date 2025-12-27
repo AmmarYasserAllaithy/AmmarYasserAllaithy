@@ -46,6 +46,14 @@ My potential extends beyond development into AI and Security.
   Swift UI — CI/CD — Linux — Termux — C++ — PL/SQL — OpenCV — LaTeX — Telegram SDK
 
 
+## Production-ready apps
+
+- [ ] [Totpator](https://github.com/AmmarYasserAllaithy/Totpator): Promote your accounts security by generating time-based OTP based on your shared secret key.
+- [ ] [Foundit](https://github.com/AmmarYasserAllaithy/Foundit): Lost & Found tracker.
+- [ ] [YTPyzer](https://github.com/AmmarYasserAllaithy/YTPyzer): YouTube Playlists Analyzer.
+- [ ] [Talltale](https://github.com/AmmarYasserAllaithy/telltale): Lightweight composing and free writing web-app that keeps your tales.
+
+
 ## Contact
 
 [![Static Badge](https://img.shields.io/badge/Via-Email-EA4335?style=for-the-badge)](mailto:ammaryasserallaithy@gmail.com)
