@@ -17,6 +17,8 @@ My potential extends beyond development into AI and Security.
 
 ## Tech Stack
 
+[![roadmap.sh](https://roadmap.sh/card/wide/670d094c791f57dd60cdbbd3?variant=dark&roadmaps=android%2Creact-native%2Cvue%2Cjava)](https://roadmap.sh)
+
 ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-22252C?logo=kotlin&style=for-the-badge)
 
   Android — iOS — Desktop
